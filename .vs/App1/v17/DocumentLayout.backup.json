@@ -91,8 +91,7 @@
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T19:46:34.55Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -105,8 +104,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-01T19:43:46.616Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -119,8 +117,7 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-01T20:40:35.394Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -133,8 +130,7 @@
               "ViewState": "AgIAAC0AAAAAAAAAAAAxwFkAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T22:06:54.055Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -144,11 +140,19 @@
               "RelativeDocumentMoniker": "App1\\StaffLogin.xaml",
               "ToolTip": "C:\\Users\\Szef\\source\\repos\\beatkaxpp\\App1\\StaffLogin.xaml",
               "RelativeToolTip": "App1\\StaffLogin.xaml",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAwBsAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwCAAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-01T21:52:10.936Z",
               "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
@@ -160,8 +164,7 @@
               "RelativeToolTip": "App1\\StaffProfile.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T22:56:04.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T22:56:04.467Z"
             },
             {
               "$type": "Document",
@@ -173,8 +176,7 @@
               "RelativeToolTip": "App1\\StaffProfile.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-01T22:53:46.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T22:53:46.499Z"
             },
             {
               "$type": "Document",
@@ -186,8 +188,7 @@
               "RelativeToolTip": "App1\\PatientProfile.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T21:47:54.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T21:47:54.365Z"
             },
             {
               "$type": "Document",
@@ -199,8 +200,7 @@
               "RelativeToolTip": "App1\\PatientProfile.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-01T21:47:10.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T21:47:10.934Z"
             },
             {
               "$type": "Document",
@@ -212,8 +212,7 @@
               "RelativeToolTip": "App1\\TrustedProfile.xaml.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwBwAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T20:13:25.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T20:13:25.664Z"
             },
             {
               "$type": "Document",
@@ -225,8 +224,7 @@
               "RelativeToolTip": "App1\\HomePage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T19:45:45.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T19:45:45.511Z"
             },
             {
               "$type": "Document",
@@ -238,8 +236,7 @@
               "RelativeToolTip": "App1\\HomePage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAADCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-01T19:36:40.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T19:36:40.583Z"
             },
             {
               "$type": "Document",
@@ -251,8 +248,7 @@
               "RelativeToolTip": "App1\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T19:36:28.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T19:36:28.695Z"
             },
             {
               "$type": "Document",
@@ -282,9 +278,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "App1.csproj",
-              "DocumentMoniker": "C:\\Users\\Szef\\source\\repos\\beatkaxpp\\App1\\App1.csproj",
+              "DocumentMoniker": "C:\\Users\\Szef\\Source\\Repos\\beatkaxpp\\App1\\App1.csproj",
               "RelativeDocumentMoniker": "App1\\App1.csproj",
-              "ToolTip": "C:\\Users\\Szef\\source\\repos\\beatkaxpp\\App1\\App1.csproj",
+              "ToolTip": "C:\\Users\\Szef\\Source\\Repos\\beatkaxpp\\App1\\App1.csproj",
               "RelativeToolTip": "App1\\App1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

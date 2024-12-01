@@ -1294,11 +1294,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Szef\\Source\\Repos\\beatkaxpp\\App1\\App1.csproj",
+      "projectUniqueName": "D:\\github\\beatkaxpp\\App1\\App1.csproj",
       "projectName": "App1",
-      "projectPath": "C:\\Users\\Szef\\Source\\Repos\\beatkaxpp\\App1\\App1.csproj",
+      "projectPath": "D:\\github\\beatkaxpp\\App1\\App1.csproj",
       "packagesPath": "C:\\Users\\Szef\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Szef\\Source\\Repos\\beatkaxpp\\App1\\obj\\",
+      "outputPath": "D:\\github\\beatkaxpp\\App1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
