@@ -1,0 +1,45 @@
+<Page
+    x:Class="App1.StaffLogin"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="LightBlue">
+        <!-- Przycisk cofania w lewym górnym rogu -->
+        <Button Content="Wstecz" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10" Click="BackButton_Click"/>
+
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Spacing="20" >
+            <TextBlock Text="Logowanie" FontSize="36" FontWeight="Bold" Foreground="DarkBlue" 
+                       HorizontalAlignment="Center" />
+            <TextBlock Text="Kategoria Pracownika" FontSize="26" FontWeight="Bold" Foreground="DarkBlue" 
+                       HorizontalAlignment="Center" />
+            <!-- Dodaj tutaj elementy logowania -->
+            <TextBlock Text="" FontSize="12" FontWeight="Bold" Foreground="DarkRed" 
+           HorizontalAlignment="Center" Name="Warning" Visibility="Collapsed" />
+            <ComboBox Name="UserRole" Margin = "35,0,0,0" Width="200" SelectedIndex="1" VerticalContentAlignment="Center" 
+                      HorizontalContentAlignment="Center">
+                <ComboBoxItem Content="Administrator"/>
+                <ComboBoxItem Content="Lekarz" IsSelected = "True" />
+                <ComboBoxItem Content="Technik Medyczny"/>
+                <ComboBoxItem Content="Ratownik Medyczny"/>
+            </ComboBox>
+            <TextBlock Text="ID" FontSize="26" FontWeight="Bold" Foreground="DarkBlue" 
+           HorizontalAlignment="Center" />
+            <TextBlock Text="" FontSize="12" FontWeight="Bold" Foreground="DarkRed" 
+                HorizontalAlignment="Center" Name="IdEmpty" Visibility="Collapsed" />
+            <TextBox Height = "30" HorizontalAlignment="Center"  Margin = "0,0,0,0"
+                     Name = "IdBox" LostFocus="EmptyCheck" 
+                     VerticalAlignment = "Top" Width = "200" />
+            <TextBlock Text="Hasło" FontSize="26" FontWeight="Bold" Foreground="DarkBlue" 
+           HorizontalAlignment="Center" />
+            <PasswordBox Height = "30" HorizontalAlignment="Center"  Margin = "0,0,0,0"
+                    Name = "PassBox" 
+                    VerticalAlignment = "Top" Width = "200" />
+            <Button Content="Zaloguj" Width="200" Height="50" FontSize="18" Background="DarkBlue" 
+                    Foreground="White" HorizontalAlignment="Center" Margin="0,0,0,0" Click="StaffLoginCheck"/>
+        </StackPanel>
+    </Grid>
+</Page>

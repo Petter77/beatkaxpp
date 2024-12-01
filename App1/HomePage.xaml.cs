@@ -14,5 +14,6 @@ namespace App1
         {
             Frame.Navigate(typeof(LoginPage));
         }
+
     }
 }

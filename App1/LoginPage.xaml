@@ -14,6 +14,8 @@
         <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Spacing="20">
             <TextBlock Text="Strona logowania" FontSize="36" FontWeight="Bold" Foreground="DarkBlue" HorizontalAlignment="Center"/>
             <!-- Dodaj tutaj elementy logowania -->
+            <Button Content="Profil Zaufany" Width="200" Height="50" FontSize="18" Background="DarkBlue" Foreground="White" HorizontalAlignment="Center" Margin="0,0,0,0" Click="NavigateTrustedProfile" />
+            <Button Content="ID Pracownika" Width="200" Height="50" FontSize="18" Background="DarkBlue" Foreground="White" HorizontalAlignment="Center" Margin="0,0,0,0"  Click="NavigateStaffLogin"/>
         </StackPanel>
     </Grid>
 </Page>

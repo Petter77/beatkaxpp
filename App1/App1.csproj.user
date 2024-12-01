@@ -5,6 +5,18 @@
     <None Update="App.xaml">
       <SubType>Designer</SubType>
     </None>
+    <Page Update="StaffProfile.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PatientProfile.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="StaffLogin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TrustedProfile.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="LoginPage.xaml">
       <SubType>Designer</SubType>
     </Page>

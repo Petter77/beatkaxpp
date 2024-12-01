@@ -17,5 +17,13 @@ namespace App1
                 Frame.GoBack();
             }
         }
+        private void NavigateTrustedProfile(object sender, RoutedEventArgs e)
+        {
+            Frame.Navigate(typeof(TrustedProfile));
+        }
+        private void NavigateStaffLogin(object sender, RoutedEventArgs e)
+        {
+            Frame.Navigate(typeof(StaffLogin));
+        }
     }
 }

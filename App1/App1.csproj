@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
     <TargetFramework>net8.0-windows10.0.19041.0</TargetFramework>
@@ -40,6 +40,18 @@
     <PackageReference Include="Microsoft.WindowsAppSDK" Version="1.6.240923002" />
   </ItemGroup>
   <ItemGroup>
+    <Page Update="StaffProfile.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PatientProfile.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="StaffLogin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TrustedProfile.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="LoginPage.xaml">
       <Generator>MSBuild:Compile</Generator>
     </Page>

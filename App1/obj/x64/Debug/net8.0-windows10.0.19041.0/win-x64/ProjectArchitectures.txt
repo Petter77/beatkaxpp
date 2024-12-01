@@ -1,1 +1,1 @@
-C:\Users\megat\source\repos\App1\App1\App1.csproj;x64
+C:\Users\Szef\source\repos\beatkaxpp\App1\App1.csproj;x64
