@@ -2,7 +2,11 @@ App.xbf
 HomePage.xbf
 LoginPage.xbf
 MainWindow.xbf
+PatientHistory.xbf
 PatientProfile.xbf
+PatientProfileInfo.xbf
+PatientRecipes.xbf
+PatientReferrals.xbf
 StaffLogin.xbf
 StaffProfile.xbf
 TrustedProfile.xbf

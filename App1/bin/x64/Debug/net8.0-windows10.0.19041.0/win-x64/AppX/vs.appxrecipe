@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>0bab8773-3cdd-4bba-88d3-2b708953e4cf</PackageIdentityName>
     <PackageIdentityPublisher>CN=megat</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Szef\source\repos\beatkaxpp\App1\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>D:\github\beatkaxpp\App1\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>
     </WindowsSdkPath>
-    <LayoutDir>C:\Users\Szef\source\repos\beatkaxpp\App1\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\AppX</LayoutDir>
+    <LayoutDir>D:\github\beatkaxpp\App1\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>E348B810858F3936C30ECAC6BAC5FDABC7B3F713441202478F866EA858579B6F</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>0bab8773-3cdd-4bba-88d3-2b708953e4cf_1.0.0.0_x64__qn2fw84xf7scm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>0bab8773-3cdd-4bba-88d3-2b708953e4cf_qn2fw84xf7scm!App</RegisteredUserModeAppID>
@@ -27,28 +27,28 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Szef\source\repos\beatkaxpp\App1\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\AppxManifest.xml">
+    <AppXManifest Include="D:\github\beatkaxpp\App1\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-12-01T23:02:16.570</Modified>
+      <Modified>2024-12-02T18:25:10.484</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Szef\source\repos\beatkaxpp\App1\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\resources.pri">
+    <AppxPackagedFile Include="D:\github\beatkaxpp\App1\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-12-01T23:02:16.412</Modified>
+      <Modified>2024-12-02T18:25:10.313</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Szef\source\repos\beatkaxpp\App1\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\App1.runtimeconfig.json">
+    <AppxPackagedFile Include="D:\github\beatkaxpp\App1\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\App1.runtimeconfig.json">
       <PackagePath>App1.runtimeconfig.json</PackagePath>
-      <Modified>2024-12-01T19:35:41.284</Modified>
+      <Modified>2024-12-01T23:39:18.556</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Szef\source\repos\beatkaxpp\App1\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\App1.dll">
+    <AppxPackagedFile Include="D:\github\beatkaxpp\App1\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\App1.dll">
       <PackagePath>App1.dll</PackagePath>
-      <Modified>2024-12-01T23:02:16.243</Modified>
+      <Modified>2024-12-02T18:25:10.137</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Szef\source\repos\beatkaxpp\App1\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\apphost.exe">
+    <AppxPackagedFile Include="D:\github\beatkaxpp\App1\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\apphost.exe">
       <PackagePath>App1.exe</PackagePath>
-      <Modified>2024-12-01T23:02:16.306</Modified>
+      <Modified>2024-12-02T18:25:10.207</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Szef\.nuget\packages\microsoft.web.webview2\1.0.2651.64\runtimes\win-x64\native\WebView2Loader.dll">
       <PackagePath>runtimes\win-x64\native\WebView2Loader.dll</PackagePath>
@@ -870,35 +870,35 @@
       <PackagePath>Microsoft.Web.WebView2.Core.Projection.dll</PackagePath>
       <Modified>2024-07-20T08:33:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Szef\source\repos\beatkaxpp\App1\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\App1.deps.json">
+    <AppxPackagedFile Include="D:\github\beatkaxpp\App1\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\App1.deps.json">
       <PackagePath>App1.deps.json</PackagePath>
-      <Modified>2024-12-01T22:59:44.558</Modified>
+      <Modified>2024-12-02T17:41:40.991</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Szef\source\repos\beatkaxpp\App1\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\github\beatkaxpp\App1\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2024-12-01T18:24:13.520</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Szef\source\repos\beatkaxpp\App1\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="D:\github\beatkaxpp\App1\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <Modified>2024-12-01T18:24:13.520</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Szef\source\repos\beatkaxpp\App1\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\github\beatkaxpp\App1\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <Modified>2024-12-01T18:24:13.521</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Szef\source\repos\beatkaxpp\App1\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\github\beatkaxpp\App1\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <Modified>2024-12-01T18:24:13.521</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Szef\source\repos\beatkaxpp\App1\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="D:\github\beatkaxpp\App1\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <Modified>2024-12-01T18:24:13.521</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Szef\source\repos\beatkaxpp\App1\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="D:\github\beatkaxpp\App1\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <Modified>2024-12-01T18:24:13.522</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Szef\source\repos\beatkaxpp\App1\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\github\beatkaxpp\App1\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <Modified>2024-12-01T18:24:13.522</Modified>
     </AppxPackagedFile>

@@ -40,6 +40,20 @@
     <PackageReference Include="Microsoft.WindowsAppSDK" Version="1.6.240923002" />
   </ItemGroup>
   <ItemGroup>
+    <Page Update="PatientReferrals.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PatientRecipes.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PatientHistory.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PatientProfileInfo.xaml">
+      <XamlRuntime>$(DefaultXamlRuntime)</XamlRuntime>
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Update="StaffProfile.xaml">
       <SubType>Designer</SubType>
     </Page>

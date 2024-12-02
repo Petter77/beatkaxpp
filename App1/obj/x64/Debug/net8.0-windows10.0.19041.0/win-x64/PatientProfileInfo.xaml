@@ -1,0 +1,55 @@
+﻿<Page
+    x:Class="App1.PatientProfileInfo"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="LightBlue" Padding="20">
+        <!-- Define rows for layout -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <!-- For Picture -->
+            <RowDefinition Height="Auto"/>
+            <!-- For ID -->
+            <RowDefinition Height="Auto"/>
+            <!-- For Name, Surname -->
+            <RowDefinition Height="Auto"/>
+            <!-- For Age -->
+            <RowDefinition Height="Auto"/>
+            <!-- For Birthdate -->
+            <RowDefinition Height="Auto"/>
+            <!-- For BloodType -->
+        </Grid.RowDefinitions>
+        
+        <!-- Placeholder for profile picture -->
+        <Rectangle Grid.Row="0" Width="100" Height="100" Fill="White" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+        <!-- Patient's ID -->
+        <TextBlock Grid.Row="1" Text="Pesel: " FontSize="24" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="0,10,0,0"/>
+        <TextBlock x:ConnectionId='2' x:Name="PatientID" Grid.Row="1" FontSize="24" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="120,10,0,0"/>
+
+        <!-- Patient's Name -->
+        <TextBlock Grid.Row="2" Text="Imię: " FontSize="24" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="0,10,0,0"/>
+        <TextBlock x:ConnectionId='3' x:Name="PatientName" Grid.Row="2" FontSize="24" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="120,10,0,0"/>
+
+        <!-- Patient's Surname -->
+        <TextBlock Grid.Row="3" Text="Nazwisko: " FontSize="24" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="0,10,0,0"/>
+        <TextBlock x:ConnectionId='4' x:Name="PatientSurname" Grid.Row="3" FontSize="24" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="120,10,0,0"/>
+
+        <!-- Patient's Age -->
+        <TextBlock Grid.Row="4" Text="Wiek: " FontSize="24" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="0,10,0,0"/>
+        <TextBlock x:ConnectionId='5' x:Name="PatientAge" Grid.Row="4" FontSize="24" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="120,10,0,0"/>
+
+        <!-- Patient's Birthdate -->
+        <TextBlock Grid.Row="5" Text="Data Urodzenia: " FontSize="24" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="0,10,0,0"/>
+        <TextBlock x:ConnectionId='6' x:Name="PatientBirthdate" Grid.Row="5" FontSize="24" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="120,10,0,0"/>
+
+        <!-- Patient's Blood Type -->
+        <TextBlock Grid.Row="6" Text="Typ Krwi: " FontSize="24" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="0,10,0,0"/>
+        <TextBlock x:ConnectionId='7' x:Name="PatientBloodType" Grid.Row="6" FontSize="24" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="120,30,0,0"/>
+    </Grid>
+</Page>
+

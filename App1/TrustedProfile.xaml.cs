@@ -24,9 +24,14 @@ namespace App1
         }
         private void TrustedProfileCheck(object sender, RoutedEventArgs e)
         {
-            if(txtBox.Text == "01234567891")
+            string userId = txtBox.Text;
+            if (txtBox.Text == "01234567891")
             {
-                Frame.Navigate(typeof(PatientProfile));
+                Frame.Navigate(typeof(PatientProfile), userId);
+            }
+            else
+            {
+                Warning.Text = "Nie ma pacjenta z takim PESELEM!";
             }
         }
         private void NumberValidationTextBox(object sender, TextBoxBeforeTextChangingEventArgs args)

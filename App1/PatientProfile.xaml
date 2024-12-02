@@ -8,10 +8,50 @@
     mc:Ignorable="d">
 
     <Grid Background="LightBlue">
-        <Button Content="Wyloguj" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="10" Click="LogOut"/>
-        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Spacing="40" Margin="0,50,0,0">
-            <TextBlock Text="Profil Pacjenta" FontSize="36" FontWeight="Bold" Foreground="DarkBlue" HorizontalAlignment="Center" Margin="0,0,0,0"/>
+        <!-- Define two rows: one for the top (header) and one for the SplitView -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <!-- For top section -->
+            <RowDefinition Height="*" />
+            <!-- For SplitView and content area -->
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
 
-        </StackPanel>
+        <!-- Top section with TextBlock and Button -->
+        <Grid Grid.Row="0" HorizontalAlignment="Stretch" VerticalAlignment="Top" Background="Green" Margin="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="Auto" />
+            </Grid.ColumnDefinitions>
+
+            <!-- Centered TextBlock -->
+            <TextBlock Grid.Column="0" Text="Narodowa Baza Medyczna" HorizontalAlignment="Center"
+                       VerticalAlignment="Center" FontSize="36" Margin="0,0" />
+
+            <!-- Button in the top-right corner -->
+            <Button Grid.Column="1" Content="Wyloguj" HorizontalAlignment="Right"
+                    VerticalAlignment="Top" Margin="10" Click="LogOut"/>
+        </Grid>
+
+        <!-- Main SplitView (Menu and Content) below the header -->
+        <Grid Grid.Row="1">
+            <SplitView x:Name="MainSplitView" DisplayMode="CompactInline" IsPaneOpen="True" HorizontalAlignment="Stretch" Margin="0">
+                <!-- Menu Panel (Left side) -->
+                <SplitView.Pane >
+                    <StackPanel Width="250" Background="DarkBlue">
+                        <!-- Menu Buttons -->
+                        <Button HorizontalAlignment="Stretch" Content="Profil" Click="MenuItemClick"/>
+                        <Button HorizontalAlignment="Stretch" Content="Historia Medyczna" Click="MenuItemClick"/>
+                        <Button HorizontalAlignment="Stretch" Content="Recepty" Click="MenuItemClick"/>
+                        <Button HorizontalAlignment="Stretch" Content="Skierowania" Click="MenuItemClick"/>
+                    </StackPanel>
+                </SplitView.Pane>
+
+                <!-- Content Panel (Right side) -->
+                <Frame x:Name="MainFrame" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+            </SplitView>
+        </Grid>
     </Grid>
 </Page>

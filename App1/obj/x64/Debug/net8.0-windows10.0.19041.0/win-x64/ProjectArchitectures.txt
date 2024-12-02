@@ -1,1 +1,1 @@
-C:\Users\Szef\source\repos\beatkaxpp\App1\App1.csproj;x64
+D:\github\beatkaxpp\App1\App1.csproj;x64
