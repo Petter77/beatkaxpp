@@ -22,6 +22,7 @@
             <!-- For Birthdate -->
             <RowDefinition Height="Auto"/>
             <!-- For BloodType -->
+            <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
         
         <!-- Placeholder for profile picture -->
@@ -41,15 +42,15 @@
 
         <!-- Patient's Age -->
         <TextBlock Grid.Row="4" Text="Wiek: " FontSize="24" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="0,10,0,0"/>
-        <TextBlock x:ConnectionId='5' x:Name="PatientAge" Grid.Row="4" FontSize="24" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="120,10,0,0"/>
+        <TextBlock x:ConnectionId='5' x:Name="PatientAge" Grid.Row="4" FontSize="24" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="80,10,0,0"/>
 
         <!-- Patient's Birthdate -->
         <TextBlock Grid.Row="5" Text="Data Urodzenia: " FontSize="24" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="0,10,0,0"/>
-        <TextBlock x:ConnectionId='6' x:Name="PatientBirthdate" Grid.Row="5" FontSize="24" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="120,10,0,0"/>
+        <TextBlock x:ConnectionId='6' x:Name="PatientBirthdate" Grid.Row="5" FontSize="24" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="180,10,0,0"/>
 
         <!-- Patient's Blood Type -->
         <TextBlock Grid.Row="6" Text="Typ Krwi: " FontSize="24" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="0,10,0,0"/>
-        <TextBlock x:ConnectionId='7' x:Name="PatientBloodType" Grid.Row="6" FontSize="24" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="120,30,0,0"/>
+        <TextBlock x:ConnectionId='7' x:Name="PatientBloodType" Grid.Row="6" FontSize="24" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="120,10,0,0"/>
     </Grid>
 </Page>
 

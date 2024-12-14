@@ -19,25 +19,20 @@
             <!-- Dodaj tutaj elementy logowania -->
             <TextBlock x:ConnectionId='3' Text="" FontSize="12" FontWeight="Bold" Foreground="DarkRed" 
            HorizontalAlignment="Center" Name="Warning" Visibility="Collapsed" />
-            <ComboBox x:ConnectionId='4' Name="UserRole" Margin = "35,0,0,0" Width="200" SelectedIndex="1" VerticalContentAlignment="Center" 
-                      HorizontalContentAlignment="Center">
-                <ComboBoxItem Content="Administrator"/>
-                <ComboBoxItem Content="Lekarz" IsSelected = "True" />
-                <ComboBoxItem Content="Technik Medyczny"/>
-                <ComboBoxItem Content="Ratownik Medyczny"/>
-            </ComboBox>
+            <ComboBox x:ConnectionId='4' Name="UserRole" IsDropDownOpen="True" Margin="35,0,0,0" Width="200" SelectedIndex="1" VerticalContentAlignment="Center" 
+                      HorizontalContentAlignment="Center"/>
             <TextBlock Text="ID" FontSize="26" FontWeight="Bold" Foreground="DarkBlue" 
            HorizontalAlignment="Center" />
             <TextBlock x:ConnectionId='5' Text="" FontSize="12" FontWeight="Bold" Foreground="DarkRed" 
                 HorizontalAlignment="Center" Name="IdEmpty" Visibility="Collapsed" />
-            <TextBox x:ConnectionId='6' Height = "30" HorizontalAlignment="Center"  Margin = "0,0,0,0"
-                     Name = "IdBox"                        
-                     VerticalAlignment = "Top" Width = "200" />
+            <TextBox x:ConnectionId='6' Height="30" HorizontalAlignment="Center"  Margin="0,0,0,0"
+                     Name="IdBox"                        
+                     VerticalAlignment="Top" Width="200" />
             <TextBlock Text="Hasło" FontSize="26" FontWeight="Bold" Foreground="DarkBlue" 
            HorizontalAlignment="Center" />
-            <PasswordBox x:ConnectionId='7' Height = "30" HorizontalAlignment="Center"  Margin = "0,0,0,0"
-                    Name = "PassBox" 
-                    VerticalAlignment = "Top" Width = "200" />
+            <PasswordBox x:ConnectionId='7' Height="30" HorizontalAlignment="Center"  Margin="0,0,0,0"
+                    Name="PassBox" 
+                    VerticalAlignment="Top" Width="200" />
             <Button x:ConnectionId='8' Content="Zaloguj" Width="200" Height="50" FontSize="18" Background="DarkBlue" 
                     Foreground="White" HorizontalAlignment="Center" Margin="0,0,0,0"                        />
         </StackPanel>

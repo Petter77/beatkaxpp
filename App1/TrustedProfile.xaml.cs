@@ -4,12 +4,17 @@ using System.Text.RegularExpressions;
 using Microsoft.UI.Xaml;
 using Microsoft.UI.Xaml.Controls;
 using Windows.UI.Popups;
+using Npgsql;
 
 
 namespace App1
 {
     public sealed partial class TrustedProfile : Page
     {
+        private string host = "localhost";
+        private string database = "BazaMedyczna";
+        private string Username = "pacjent";
+        private string Password = "haslo";
         public TrustedProfile()
         {   
             this.InitializeComponent();
@@ -22,16 +27,41 @@ namespace App1
                 Frame.GoBack();
             }
         }
-        private void TrustedProfileCheck(object sender, RoutedEventArgs e)
+        private async void TrustedProfileCheck(object sender, RoutedEventArgs e)
         {
-            string userId = txtBox.Text;
-            if (txtBox.Text == "01234567891")
+            var cs = "Host=" + host + ";Username=" + Username + ";Password=" + Password + ";Database=" + database;
+            using (var con = new NpgsqlConnection(cs))
             {
-                Frame.Navigate(typeof(PatientProfile), userId);
-            }
-            else
-            {
-                Warning.Text = "Nie ma pacjenta z takim PESELEM!";
+                await con.OpenAsync();
+
+                string userId = txtBox.Text;
+                if (userId.Length != 11)
+                {
+                    Warning.Text = "Pesel musi składać się z 11 cyfr";
+                    Warning.Visibility = Visibility.Visible;
+                    return;
+                }
+
+                string sql = "SELECT COUNT(*) FROM \"Pacjenci\" WHERE pesel = CAST(@userId AS NUMERIC)";
+                using (var cmd = new NpgsqlCommand(sql, con))
+                {
+                    cmd.Parameters.AddWithValue("userId", userId);
+
+                    var count = (long)await cmd.ExecuteScalarAsync();
+
+                    if (count > 0)
+                    {
+                        var localSettings = Windows.Storage.ApplicationData.Current.LocalSettings;
+                        localSettings.Values["userId"] = userId;
+                        Frame.Navigate(typeof(PatientProfile));
+
+                    }
+                    else
+                    {
+                        Warning.Text = "Nie ma pacjenta z takim PESELEM!";
+                        Warning.Visibility = Visibility.Visible;
+                    }
+                }
             }
         }
         private void NumberValidationTextBox(object sender, TextBoxBeforeTextChangingEventArgs args)

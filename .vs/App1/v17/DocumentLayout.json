@@ -1,65 +1,77 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\github\\beatkaxpp\\",
+  "WorkspaceRootPath": "E:\\Programy\\Github\\beatkaxpp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|d:\\github\\beatkaxpp\\app1\\patientprofileinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|solutionrelative:app1\\patientprofileinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|d:\\github\\beatkaxpp\\app1\\patientprofileinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|solutionrelative:app1\\patientprofileinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|d:\\github\\beatkaxpp\\app1\\patientprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|solutionrelative:app1\\patientprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|d:\\github\\beatkaxpp\\app1\\patientreferrals.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|solutionrelative:app1\\patientreferrals.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|d:\\github\\beatkaxpp\\app1\\stafflogin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|e:\\programy\\github\\beatkaxpp\\app1\\stafflogin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|solutionrelative:app1\\stafflogin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|d:\\github\\beatkaxpp\\app1\\stafflogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|solutionrelative:app1\\stafflogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|d:\\github\\beatkaxpp\\app1\\patientprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|solutionrelative:app1\\patientprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|d:\\github\\beatkaxpp\\app1\\patientreferrals.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|solutionrelative:app1\\patientreferrals.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|d:\\github\\beatkaxpp\\app1\\patienthistory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|solutionrelative:app1\\patienthistory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|d:\\github\\beatkaxpp\\app1\\trustedprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|e:\\programy\\github\\beatkaxpp\\app1\\trustedprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|solutionrelative:app1\\trustedprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|d:\\github\\beatkaxpp\\app1\\patientrecipes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|solutionrelative:app1\\patientrecipes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|e:\\programy\\github\\beatkaxpp\\app1\\patientprofileinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|solutionrelative:app1\\patientprofileinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|d:\\github\\beatkaxpp\\app1\\trustedprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|e:\\programy\\github\\beatkaxpp\\app1\\patientprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|solutionrelative:app1\\patientprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|e:\\programy\\github\\beatkaxpp\\app1\\stafflogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|solutionrelative:app1\\stafflogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|e:\\programy\\github\\beatkaxpp\\app1\\trustedprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|solutionrelative:app1\\trustedprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|d:\\github\\beatkaxpp\\app1\\patienthistory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programy\\Github\\beatkaxpp\\App1\\obj\\x64\\Debug\\net8.0-windows10.0.19041.0\\win-x64\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App1\\obj\\x64\\Debug\\net8.0-windows10.0.19041.0\\win-x64\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|e:\\programy\\github\\beatkaxpp\\app1\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|solutionrelative:app1\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|e:\\programy\\github\\beatkaxpp\\app1\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|solutionrelative:app1\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|e:\\programy\\github\\beatkaxpp\\app1\\patientprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|solutionrelative:app1\\patientprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|e:\\programy\\github\\beatkaxpp\\app1\\patientprofileinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|solutionrelative:app1\\patientprofileinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|e:\\programy\\github\\beatkaxpp\\app1\\patientreferrals.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|solutionrelative:app1\\patientreferrals.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|e:\\programy\\github\\beatkaxpp\\app1\\patientreferrals.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|solutionrelative:app1\\patientreferrals.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|e:\\programy\\github\\beatkaxpp\\app1\\patienthistory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|solutionrelative:app1\\patienthistory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|e:\\programy\\github\\beatkaxpp\\app1\\patientrecipes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|solutionrelative:app1\\patientrecipes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|e:\\programy\\github\\beatkaxpp\\app1\\patienthistory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|solutionrelative:app1\\patienthistory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|d:\\github\\beatkaxpp\\app1\\staffprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|e:\\programy\\github\\beatkaxpp\\app1\\staffprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|solutionrelative:app1\\staffprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|d:\\github\\beatkaxpp\\app1\\staffprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|e:\\programy\\github\\beatkaxpp\\app1\\staffprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6F72F4D-B537-4ECA-ABE2-C152D030D1DB}|App1\\App1.csproj|solutionrelative:app1\\staffprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -70,17 +82,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "TrustedProfile.xaml",
-              "DocumentMoniker": "D:\\github\\beatkaxpp\\App1\\TrustedProfile.xaml",
+              "DocumentMoniker": "E:\\Programy\\Github\\beatkaxpp\\App1\\TrustedProfile.xaml",
               "RelativeDocumentMoniker": "App1\\TrustedProfile.xaml",
-              "ToolTip": "D:\\github\\beatkaxpp\\App1\\TrustedProfile.xaml",
+              "ToolTip": "E:\\Programy\\Github\\beatkaxpp\\App1\\TrustedProfile.xaml",
               "RelativeToolTip": "App1\\TrustedProfile.xaml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-01T20:40:35.394Z",
               "IsPinned": true,
@@ -88,13 +100,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "TrustedProfile.xaml.cs",
-              "DocumentMoniker": "D:\\github\\beatkaxpp\\App1\\TrustedProfile.xaml.cs",
+              "DocumentMoniker": "E:\\Programy\\Github\\beatkaxpp\\App1\\TrustedProfile.xaml.cs",
               "RelativeDocumentMoniker": "App1\\TrustedProfile.xaml.cs",
-              "ToolTip": "D:\\github\\beatkaxpp\\App1\\TrustedProfile.xaml.cs",
+              "ToolTip": "E:\\Programy\\Github\\beatkaxpp\\App1\\TrustedProfile.xaml.cs",
               "RelativeToolTip": "App1\\TrustedProfile.xaml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowC8AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T20:13:25.664Z",
               "IsPinned": true,
@@ -102,27 +114,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StaffLogin.xaml",
-              "DocumentMoniker": "D:\\github\\beatkaxpp\\App1\\StaffLogin.xaml",
-              "RelativeDocumentMoniker": "App1\\StaffLogin.xaml",
-              "ToolTip": "D:\\github\\beatkaxpp\\App1\\StaffLogin.xaml",
-              "RelativeToolTip": "App1\\StaffLogin.xaml",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAwCAAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-01T21:52:10.936Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "StaffLogin.xaml.cs",
-              "DocumentMoniker": "D:\\github\\beatkaxpp\\App1\\StaffLogin.xaml.cs",
+              "DocumentMoniker": "E:\\Programy\\Github\\beatkaxpp\\App1\\StaffLogin.xaml.cs",
               "RelativeDocumentMoniker": "App1\\StaffLogin.xaml.cs",
-              "ToolTip": "D:\\github\\beatkaxpp\\App1\\StaffLogin.xaml.cs",
+              "ToolTip": "E:\\Programy\\Github\\beatkaxpp\\App1\\StaffLogin.xaml.cs",
               "RelativeToolTip": "App1\\StaffLogin.xaml.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAqwCAAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAADwv1oAAABvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T22:06:54.055Z",
               "IsPinned": true,
@@ -130,63 +128,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "StaffLogin.xaml",
+              "DocumentMoniker": "E:\\Programy\\Github\\beatkaxpp\\App1\\StaffLogin.xaml",
+              "RelativeDocumentMoniker": "App1\\StaffLogin.xaml",
+              "ToolTip": "E:\\Programy\\Github\\beatkaxpp\\App1\\StaffLogin.xaml",
+              "RelativeToolTip": "App1\\StaffLogin.xaml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T21:52:10.936Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PatientProfileInfo.xaml",
-              "DocumentMoniker": "D:\\github\\beatkaxpp\\App1\\PatientProfileInfo.xaml",
+              "DocumentMoniker": "E:\\Programy\\Github\\beatkaxpp\\App1\\PatientProfileInfo.xaml",
               "RelativeDocumentMoniker": "App1\\PatientProfileInfo.xaml",
-              "ToolTip": "D:\\github\\beatkaxpp\\App1\\PatientProfileInfo.xaml",
+              "ToolTip": "E:\\Programy\\Github\\beatkaxpp\\App1\\PatientProfileInfo.xaml",
               "RelativeToolTip": "App1\\PatientProfileInfo.xaml",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAwCwAAACBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAACBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-02T16:59:15.091Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PatientProfileInfo.xaml.cs",
-              "DocumentMoniker": "D:\\github\\beatkaxpp\\App1\\PatientProfileInfo.xaml.cs",
-              "RelativeDocumentMoniker": "App1\\PatientProfileInfo.xaml.cs",
-              "ToolTip": "D:\\github\\beatkaxpp\\App1\\PatientProfileInfo.xaml.cs",
-              "RelativeToolTip": "App1\\PatientProfileInfo.xaml.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAAwCQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T16:58:46.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PatientProfile.xaml.cs",
-              "DocumentMoniker": "D:\\github\\beatkaxpp\\App1\\PatientProfile.xaml.cs",
+              "DocumentMoniker": "E:\\Programy\\Github\\beatkaxpp\\App1\\PatientProfile.xaml.cs",
               "RelativeDocumentMoniker": "App1\\PatientProfile.xaml.cs",
-              "ToolTip": "D:\\github\\beatkaxpp\\App1\\PatientProfile.xaml.cs",
+              "ToolTip": "E:\\Programy\\Github\\beatkaxpp\\App1\\PatientProfile.xaml.cs",
               "RelativeToolTip": "App1\\PatientProfile.xaml.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwDYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T21:47:54.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PatientReferrals.xaml",
-              "DocumentMoniker": "D:\\github\\beatkaxpp\\App1\\PatientReferrals.xaml",
-              "RelativeDocumentMoniker": "App1\\PatientReferrals.xaml",
-              "ToolTip": "D:\\github\\beatkaxpp\\App1\\PatientReferrals.xaml",
-              "RelativeToolTip": "App1\\PatientReferrals.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-02T17:40:45.74Z",
+              "DocumentIndex": 6,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "E:\\Programy\\Github\\beatkaxpp\\App1\\obj\\x64\\Debug\\net8.0-windows10.0.19041.0\\win-x64\\App.g.i.cs",
+              "RelativeDocumentMoniker": "App1\\obj\\x64\\Debug\\net8.0-windows10.0.19041.0\\win-x64\\App.g.i.cs",
+              "ToolTip": "E:\\Programy\\Github\\beatkaxpp\\App1\\obj\\x64\\Debug\\net8.0-windows10.0.19041.0\\win-x64\\App.g.i.cs",
+              "RelativeToolTip": "App1\\obj\\x64\\Debug\\net8.0-windows10.0.19041.0\\win-x64\\App.g.i.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowEQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:36:05.848Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "E:\\Programy\\Github\\beatkaxpp\\App1\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "App1\\LoginPage.xaml",
+              "ToolTip": "E:\\Programy\\Github\\beatkaxpp\\App1\\LoginPage.xaml",
+              "RelativeToolTip": "App1\\LoginPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-14T15:45:22.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "E:\\Programy\\Github\\beatkaxpp\\App1\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "App1\\LoginPage.xaml.cs",
+              "ToolTip": "E:\\Programy\\Github\\beatkaxpp\\App1\\LoginPage.xaml.cs",
+              "RelativeToolTip": "App1\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T19:04:50.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "PatientProfile.xaml",
-              "DocumentMoniker": "D:\\github\\beatkaxpp\\App1\\PatientProfile.xaml",
+              "DocumentMoniker": "E:\\Programy\\Github\\beatkaxpp\\App1\\PatientProfile.xaml",
               "RelativeDocumentMoniker": "App1\\PatientProfile.xaml",
-              "ToolTip": "D:\\github\\beatkaxpp\\App1\\PatientProfile.xaml",
+              "ToolTip": "E:\\Programy\\Github\\beatkaxpp\\App1\\PatientProfile.xaml",
               "RelativeToolTip": "App1\\PatientProfile.xaml",
               "ViewState": "AgIAABoAAAAAAAAAAAAAwCwAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -195,11 +228,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
+              "Title": "PatientProfileInfo.xaml.cs",
+              "DocumentMoniker": "E:\\Programy\\Github\\beatkaxpp\\App1\\PatientProfileInfo.xaml.cs",
+              "RelativeDocumentMoniker": "App1\\PatientProfileInfo.xaml.cs",
+              "ToolTip": "E:\\Programy\\Github\\beatkaxpp\\App1\\PatientProfileInfo.xaml.cs",
+              "RelativeToolTip": "App1\\PatientProfileInfo.xaml.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAwCQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:58:46.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PatientReferrals.xaml",
+              "DocumentMoniker": "E:\\Programy\\Github\\beatkaxpp\\App1\\PatientReferrals.xaml",
+              "RelativeDocumentMoniker": "App1\\PatientReferrals.xaml",
+              "ToolTip": "E:\\Programy\\Github\\beatkaxpp\\App1\\PatientReferrals.xaml",
+              "RelativeToolTip": "App1\\PatientReferrals.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T17:40:45.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "PatientReferrals.xaml.cs",
-              "DocumentMoniker": "D:\\github\\beatkaxpp\\App1\\PatientReferrals.xaml.cs",
+              "DocumentMoniker": "E:\\Programy\\Github\\beatkaxpp\\App1\\PatientReferrals.xaml.cs",
               "RelativeDocumentMoniker": "App1\\PatientReferrals.xaml.cs",
-              "ToolTip": "D:\\github\\beatkaxpp\\App1\\PatientReferrals.xaml.cs",
+              "ToolTip": "E:\\Programy\\Github\\beatkaxpp\\App1\\PatientReferrals.xaml.cs",
               "RelativeToolTip": "App1\\PatientReferrals.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -208,11 +267,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "PatientHistory.xaml",
-              "DocumentMoniker": "D:\\github\\beatkaxpp\\App1\\PatientHistory.xaml",
+              "DocumentMoniker": "E:\\Programy\\Github\\beatkaxpp\\App1\\PatientHistory.xaml",
               "RelativeDocumentMoniker": "App1\\PatientHistory.xaml",
-              "ToolTip": "D:\\github\\beatkaxpp\\App1\\PatientHistory.xaml",
+              "ToolTip": "E:\\Programy\\Github\\beatkaxpp\\App1\\PatientHistory.xaml",
               "RelativeToolTip": "App1\\PatientHistory.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -221,11 +280,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "PatientRecipes.xaml",
-              "DocumentMoniker": "D:\\github\\beatkaxpp\\App1\\PatientRecipes.xaml",
+              "DocumentMoniker": "E:\\Programy\\Github\\beatkaxpp\\App1\\PatientRecipes.xaml",
               "RelativeDocumentMoniker": "App1\\PatientRecipes.xaml",
-              "ToolTip": "D:\\github\\beatkaxpp\\App1\\PatientRecipes.xaml",
+              "ToolTip": "E:\\Programy\\Github\\beatkaxpp\\App1\\PatientRecipes.xaml",
               "RelativeToolTip": "App1\\PatientRecipes.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -234,11 +293,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "PatientHistory.xaml.cs",
-              "DocumentMoniker": "D:\\github\\beatkaxpp\\App1\\PatientHistory.xaml.cs",
+              "DocumentMoniker": "E:\\Programy\\Github\\beatkaxpp\\App1\\PatientHistory.xaml.cs",
               "RelativeDocumentMoniker": "App1\\PatientHistory.xaml.cs",
-              "ToolTip": "D:\\github\\beatkaxpp\\App1\\PatientHistory.xaml.cs",
+              "ToolTip": "E:\\Programy\\Github\\beatkaxpp\\App1\\PatientHistory.xaml.cs",
               "RelativeToolTip": "App1\\PatientHistory.xaml.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAgwAsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -247,11 +306,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "StaffProfile.xaml",
-              "DocumentMoniker": "D:\\github\\beatkaxpp\\App1\\StaffProfile.xaml",
+              "DocumentMoniker": "E:\\Programy\\Github\\beatkaxpp\\App1\\StaffProfile.xaml",
               "RelativeDocumentMoniker": "App1\\StaffProfile.xaml",
-              "ToolTip": "D:\\github\\beatkaxpp\\App1\\StaffProfile.xaml",
+              "ToolTip": "E:\\Programy\\Github\\beatkaxpp\\App1\\StaffProfile.xaml",
               "RelativeToolTip": "App1\\StaffProfile.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -260,11 +319,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "StaffProfile.xaml.cs",
-              "DocumentMoniker": "D:\\github\\beatkaxpp\\App1\\StaffProfile.xaml.cs",
+              "DocumentMoniker": "E:\\Programy\\Github\\beatkaxpp\\App1\\StaffProfile.xaml.cs",
               "RelativeDocumentMoniker": "App1\\StaffProfile.xaml.cs",
-              "ToolTip": "D:\\github\\beatkaxpp\\App1\\StaffProfile.xaml.cs",
+              "ToolTip": "E:\\Programy\\Github\\beatkaxpp\\App1\\StaffProfile.xaml.cs",
               "RelativeToolTip": "App1\\StaffProfile.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
